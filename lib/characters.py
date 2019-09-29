@@ -1,5 +1,5 @@
 # the phrase the monkeys are desperately trying to type
-phrase = 'bepis'
+phrase = 'impossible'
 
 #percentage for odds that a space will be selected
 CHANCE = 15
